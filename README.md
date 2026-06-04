@@ -16,7 +16,7 @@ A Python program that evaluates password strength based on common security crite
 - Functions
 - String Methods
 
-  ## Example
+## Example
 
   ### Input
   Password: Password123
@@ -24,5 +24,5 @@ A Python program that evaluates password strength based on common security crite
   ### Output
   Strong Password
 
-  ## Purpose
-  This project was created to practice Python programming fundamentals while implementing a simple real-world security application.
+## Purpose
+This project was created to practice Python programming fundamentals while implementing a simple real-world security application.
